@@ -19,6 +19,10 @@
             }
 	        .poster-avatar {
                 text-align: center;
+
+                .avatar {
+                    border: 0;
+                }
 	        }
             .num.activity a {
                 font-size: var(--font-down-1);
